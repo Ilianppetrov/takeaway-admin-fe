@@ -1,0 +1,14 @@
+.Create-user {
+    width: 60%;
+    margin: auto;
+    background-color: #fefefe;
+    padding: 30px;
+    border-radius: 15px;
+
+    .user-form {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        gap: 35px;
+    }
+}

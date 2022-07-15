@@ -1,0 +1,19 @@
+.Navigation-container {
+    width: 100%;
+    background-color: #fefefe;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+
+    
+}
+
+#Navigation-overlay-panel.p-overlaypanel {
+   
+    .p-overlaypanel-content {
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        min-width: 200px;
+    }
+}

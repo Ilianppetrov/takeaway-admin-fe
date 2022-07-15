@@ -1,0 +1,13 @@
+.Add-new-unique-item-dialog {
+    
+     .p-dialog-content {
+        display: flex;
+        flex-direction: column;
+         gap: 40px;
+         padding: 30px !important;
+
+         .p-dropdown {
+            width: 100%;
+         }
+    }
+}
